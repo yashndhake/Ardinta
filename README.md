@@ -1,6 +1,6 @@
 Intro
 
-Yash Dhake \n
+Yash Dhake 
 IIT Gandhinagar
 2nd year 
 Mechanical Engineering
