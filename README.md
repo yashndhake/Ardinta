@@ -1,1 +1,0 @@
-# Ardinta_edits
