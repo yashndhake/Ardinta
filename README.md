@@ -1,4 +1,4 @@
-#Intro
+#Introduction
 
 Yash Dhake 
 IIT Gandhinagar
